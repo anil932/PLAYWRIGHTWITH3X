@@ -5,4 +5,5 @@
 ## Workflow / Git hygiene
 - Wants OS junk files (e.g., `.DS_Store`) excluded from git via `.gitignore` rather than committed or left untracked. Confidence: 0.9
 - Wants changes committed and pushed to the remote as a unit when asking to "commit and push", rather than only committing locally. Confidence: 0.85
+- Prefers the agent to investigate and fix issues autonomously with its own best judgment rather than pausing to ask clarifying questions — declined a clarifying question even after submitting a vague request ("check and fix the issue while running typescript"). Confidence: 0.5
 
